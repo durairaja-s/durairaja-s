@@ -8,17 +8,18 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=durairaja-s&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
 <div align="center">
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
-
+<div align="center">
+  Skilled in <b>Java</b>, <b>HTML</b>, and <b>CSS</b>, with a strong interest in front-end development and effective UI design.  
+  Open to learning modern tools, improving my coding skills, and exploring new technologies to build better user experiences.
+</div>
 </div>  
 
 
@@ -28,13 +29,13 @@
   <tr>
     <th align="left">Programming Languages</th>
     <td>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
   </tr>
+
 
   <tr>
     <th align="left">Frontend Development</th>
