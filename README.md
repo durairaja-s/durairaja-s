@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=27408b&text=Durairaja%20S&fontAlign=50&rotate=0&fontSize=0&desc=Web%20Developer&descAlign=38&descAlignY=65&animation=twinkling&textBg=false&fontColor=000000&reversal=true&section=header&stroke=00eaff&strokeWidth=3&descSize=0" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Turning+ideas+into+fast%2C+functional%2C+and+beautiful+web+applications." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Turning+ideas+into+fast%2C+functional%2C+and+beautiful+web+applications" alt="Typing SVG" />
 
 </div>
 
