@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&text=Durairaja%20S&fontAlign=50&rotate=0&fontSize=0&desc=Web%20Developer&descAlign=38&descAlignY=71&animation=blinking" alt="Header" />
+<img src="![Durairaja S](https://capsule-render.vercel.app/api?
+type=sparkling
+&text=Durairaja%20S
+&desc=Web%20Developer
+&fontColor=ffff00
+&color=0:ff7f50,100:1e90ff
+&animation=fadeIn
+&fontSize=50
+&descAlign=50
+&descAlignY=70
+)
+" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
