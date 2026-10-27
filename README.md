@@ -1,213 +1,150 @@
+<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=27408b&text=Durairaja%20S&fontAlign=50&rotate=0&fontSize=0&desc=Web%20Developer&descAlign=38&descAlignY=65&animation=twinkling&textBg=false&fontColor=000000&reversal=true&section=header&stroke=00eaff&strokeWidth=3&descSize=0" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Durairaja%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20Learning%20by%20Building&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Web+Developer;%F0%9F%9A%80+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D!+%F0%9F%91%8B+I'm+Durairaja;Front-End+Web+Developer+%F0%9F%9A%80;B.Tech+CSBS+%40+KIT%2C+Coimbatore;Building+responsive%2C+user-friendly+UIs" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=durairaja-s&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000" alt="followers" />
 
 </div>
 
+<br/>
+
+## 🧑‍💻 `whoami`
+
+```bash
+$ cat durairaja.json
+```
+
+```json
+{
+  "name": "Durairaja S",
+  "role": "Web Developer (Front-End)",
+  "location": "Tenkasi, Tamil Nadu, India 🇮🇳",
+  "studying": "B.Tech — Computer Science & Business Systems (2025–2028) @ KIT, Coimbatore",
+  "background": "Diploma in Computer Engineering",
+  "experience": ["Web Dev Intern @ Cognifyz IT Solutions", "Web Dev Intern @ LITZ Tech"],
+  "languages": ["Tamil (Native)", "English (Professional)"],
+  "focus": "Responsive design • Cross-browser compatibility • Clean UI",
+  "motto": "Learning by building 🚀"
+}
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=durairaja-s&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/durairaja-s?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<div align="center">
+<br/>
 
-<div align="center">
-  Skilled in <b>Java</b>, <b>HTML</b>, and <b>CSS</b>, with a strong interest in front-end development and effective UI design.  
-  Open to learning modern tools, improving my coding skills, and exploring new technologies to build better user experiences.
-</div>
-</div>  
+## 📂 Projects
 
-
-##  Technical Skills  
-
-<table align="center" width="100%">
+<table>
   <tr>
-    <th align="left">Programming Languages</th>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/durairaja-s/EcommerceApplication">EcommerceApplication</a></h3>
+      An e-commerce application built as part of my full-stack learning journey.
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/durairaja-s/TodoListApplication">TodoListApplication</a></h3>
+      A to-do list app to practise CRUD operations and clean UI.
     </td>
   </tr>
-
-
   <tr>
-    <th align="left">Frontend Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      </td>
-  </tr>
-
-  <tr>
-    <th align="left">Backend & Frameworks</th>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/durairaja-s/Library_Management_System">Library Management System</a></h3>
+      A system to manage books and library records.
     </td>
-  </tr>
-
-  <tr>
-    <th align="left">Databases & Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🧱 <a href="https://github.com/durairaja-s/Fullstack-Bootcamp">Fullstack Bootcamp</a></h3>
+      Notes and practice work from my full-stack web development training.
     </td>
   </tr>
 </table>
 
-<br>
-
-## Featured Projects  
-
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
-
-  <tr>
-    <td><b>----------------</b><br><i>--------------/i></td>
-    <td>
-        -------------------------
-    </td>
-    <td>
-      --------------------------
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>----------------</b><br><i>-------------</i></td>
-    <td>
-      -------------------------
-    </td>
-    <td>
-        --------------------------
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>----------------</b><br><i>--------------------------</i></td>
-    <td>
-        -----------------------------------------
-    </td>
-    <td>
-      ---------------------------
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>-------------------------</b><br><i>------------------------/i></td>
-    <td>
-        -----------------------------------------
-      </td>
-    <td>
-      -----------
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
-    </td>
-  </tr>
-</table>
-
-
-##  DSA & Problem Solving Achievements
-
-###  **1207+ Problems Solved Across Platforms**
-
-| Platform | Problems Solved | Max Rating |
-|----------|----------------|------------|
-| **LeetCode** | - | - |
-| **CodeChef** | - | - |
-| **CodeForces** | - | - |
-| **GeeksForGeeks** | - | - |
-
-###  **Hackathon Achievements**
--------
-
----
-
-##  GitHub Analytics
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabariyuhendh&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabariyuhendh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
+[![More repos](https://img.shields.io/badge/See%20all%20repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durairaja-s?tab=repositories)
 
 </div>
 
+<br/>
+
+## 💼 Experience
+
+| Role | Where | When |
+|:--|:--|:--|
+| 🌐 Web Development Intern | **Cognifyz IT Solutions** (Remote) | May – Jun 2026 |
+| 🌐 Web Development Intern | **LITZ Tech**, Coimbatore | May – Jun 2026 |
+
+> Built responsive front-end components with HTML, CSS & JavaScript, fixed cross-browser layout issues, and learned front-end architecture under industry mentorship.
+
+<br/>
+
+## 🏅 Certifications
+
+- 🤖 **Apply AI: Analyze Customer Reviews** — Cisco Networking Academy (2026)
+- 🐧 **Red Hat System Administration (RH134)** — Red Hat Academy (2024)
+
+<br/>
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabariyuhendh&theme=dark&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=FFFFFF" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=durairaja-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durairaja-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="top langs" />
+
+<img src="https://streak-stats.demolab.com?user=durairaja-s&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak" />
+
+<img src="https://raw.githubusercontent.com/durairaja-s/durairaja-s/output/github-snake-dark.svg" alt="snake" width="100%" />
 
 </div>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabariyuhendh&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&title_color=8B5CF6" alt="Activity Graph" />
+## 🌱 Currently
 
-</div>
+- 🔭 Levelling up my **JavaScript** and front-end skills
+- 🧪 Building more real projects and pushing them to GitHub
+- 🤝 Open to internships and collaboration
 
-<div align="center">
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-</picture>
-
-</div>  
-
----
-
-##  GitHub Trophies
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-durai-raja-25130530a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durairajass45@gmail.com)
 
-</div>
+<br/>
 
----
+*"Code is poetry — and every bug is just a verse waiting to be fixed."* ✨
 
-##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- Full-Stack Development best practices
-
----
-
-##  Connect with Me  
-<p align="left">
-  <a href="https://github.com/durairaja-s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/s-durai-raja-25130530a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:durairajass45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>  
-
----
-
-<div align="center">
-
-###  Fun Fact
-*"In the vast universe of code, every problem is just a star waiting to be discovered!"*
-
-**⭐ From [sabariyuhendh](https://github.com/durairaja-s)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
